@@ -8,7 +8,6 @@ const String jollyImage = 'assets/images/jolly.png';
 const String collyImage = 'assets/images/colly.png';
 const String mollyImage = 'assets/images/molly.png';
 
-const Color mainColor = Color.fromARGB(255, 255, 135, 171);
 const InputDecoration textFieldDecoration = InputDecoration(
   contentPadding: EdgeInsets.all(16),
   focusedBorder: OutlineInputBorder(
